@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/LeoCuenca/LeoCuenca/blob/main/Header.png"/>
+    <img src="https://github.com/LeoCuenca/LeoCuenca/blob/main/Headers.png"/>
 </div>
 <br>
 <div>
