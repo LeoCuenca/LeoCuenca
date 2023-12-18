@@ -8,7 +8,9 @@
     <p>In addition to self-study, I am currently in the final subjects of the <b>University Technician in Programming [UTN]</b> with an average grade of 8.35.</p>
     <p>My main goal nowadays is to secure my first job experience in the IT world, where I will put all my willingness to develop professionally, work in a team, and learn day by day.</p>
 </div>
+
 <h1></h1>
+
 <div align="center">
     <h3>🔨 Languages & Technologies</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
