@@ -1,5 +1,8 @@
+<div align="center">
+    <img src="https://github.com/LeoCuenca/LeoCuenca/blob/main/Header.png"/>
+</div>
+<br>
 <div>
-    <h1 align="center">Hello 👋</h1>
     <p>My name is Leonel and I'm from Argentina.</p>
     <p>I used to work as an administrative assistant in various places until about three years ago when I decided to make a 180-degree turn in my life and start studying programming, something that had always caught my attention.</p>
     <p>In addition to self-study, I am currently in the final subjects of the <b>University Technician in Programming [UTN]</b> with an average grade of 8.35.</p>
@@ -7,7 +10,7 @@
 </div>
 <h1></h1>
 <div align="center">
-    <h3>🔨 Lenguajes y Tecnologias</h3>
+    <h3>🔨 Languages & Technologies</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
@@ -26,7 +29,7 @@
     -->
 </div>
 <h1></h1>
-<h3 align="center">⚙️ Estadisticas de GitHub</h3>
+<h3 align="center">⚙️ GitHub Statistics</h3>
 <p align="center">
 <a href="https://github.com/ArisGuimera">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LeoCuenca&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
