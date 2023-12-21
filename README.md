@@ -5,7 +5,7 @@
 <div>
     <p>My name is Leonel and I'm from Argentina.</p>
     <p>I used to work as an administrative assistant in various places until about three years ago when I decided to make a 180-degree turn in my life and start studying programming, something that had always caught my attention.</p>
-    <p>In addition to self-study, I am currently in the final subjects of the <b>University Technician in Programming [UTN]</b> with an average grade of 8.35.</p>
+    <p>In addition to self-study, I am currently in the final subjects of the <b>Tecnicatura Universitaria en Programacion [UTN]</b> with an average grade of 8.42.</p>
     <p>My main goal nowadays is to secure my first job experience in the IT world, where I will put all my willingness to develop professionally, work in a team, and learn day by day.</p>
 </div>
 
